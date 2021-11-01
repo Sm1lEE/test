@@ -25,6 +25,8 @@ jobs:
           php-version: "8.0"
       - name: Install Dependencies
         run: composer install
+      - name: Run PHP conventional changelog
+        run: php vendor/bin/conventional-changelog
       # - name: Use Node v14
       #   uses: actions/setup-node@v2
       #   with:
