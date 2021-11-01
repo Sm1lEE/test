@@ -2,5 +2,6 @@
     "name": "sm1lee/test",
     "require-dev": {
         "marcocesarato/php-conventional-changelog": "^1.12"
-    }
+    },
+    "version": ""
 }
