@@ -1,6 +1,6 @@
 {
     "name": "sm1lee/test",
-    "require": {
-        "monolog/monolog": "2.0.*"
+    "require-dev": {
+        "marcocesarato/php-conventional-changelog": "^1.12"
     }
 }
